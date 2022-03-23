@@ -48,7 +48,7 @@ const ButtonDocument: FC = () => {
           background-color: #de2d6e;
         `}
       >
-        Descargar Informes
+        Descargar Informe
       </AtomButton>
       {modal && (
         <AtomWrapper
