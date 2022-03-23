@@ -1,6 +1,6 @@
-import { AtomLinkProps } from '@ixulabs/ui/build/@atoms/AtomLink/types';
-import { AtomContainerTypes } from '@ixulabs/ui/build/@atoms/AtomContainer/types';
-import { AtomTextTypes } from '@ixulabs/ui/build/@atoms/AtomText/types';
+import { AtomLinkProps } from '@sweetsyui/ui/build/@atoms/AtomLink/types';
+import { AtomContainerTypes } from '@sweetsyui/ui/build/@atoms/AtomContainer/types';
+import { AtomTextTypes } from '@sweetsyui/ui/build/@atoms/AtomText/types';
 
 interface SubField {
   type?: string;

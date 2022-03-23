@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import StylesGlobal from '@ixulabs/ui/build/@styles/stylesglobal';
+import StylesGlobal from '@sweetsyui/ui/build/@styles/stylesglobal';
 import Fonts from './_fonts';
 
 const GlobalStyles: FC = () => (

@@ -1,8 +1,8 @@
 import { css } from '@emotion/react';
 import { FC, useState } from 'react';
-import AtomIcon from '@ixulabs/ui/build/@atoms/AtomIcon';
-import AtomLink from '@ixulabs/ui/build/@atoms/AtomLink';
-import AtomText from '@ixulabs/ui/build/@atoms/AtomText';
+import AtomIcon from '@sweetsyui/ui/build/@atoms/AtomIcon';
+import AtomLink from '@sweetsyui/ui/build/@atoms/AtomLink';
+import AtomText from '@sweetsyui/ui/build/@atoms/AtomText';
 import { RecursiveDropdownHook } from './types';
 
 import {

@@ -2,7 +2,7 @@ import { css } from '@emotion/react';
 import {
   AtomWrapper,
   Header, HeaderLink, HeaderLogo, HeaderSidebar
-} from '@ixulabs/ui';
+} from '@sweetsyui/ui';
 import { Link } from '@Src/components/@atoms/AtomDropdown/types';
 import ButtonDocument from '@Src/components/ButtonDocument';
 import { useEffect, useState } from 'react';

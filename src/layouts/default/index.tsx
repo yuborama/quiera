@@ -8,7 +8,7 @@ import {
   Footer,
   FooterColumns,
   LayoutAnimation
-} from '@ixulabs/ui';
+} from '@sweetsyui/ui';
 
 import { css } from '@emotion/react';
 import DefaultHeader from '@Src/components/@organisms/Header/default';

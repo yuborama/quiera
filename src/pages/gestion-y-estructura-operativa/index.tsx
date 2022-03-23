@@ -1,6 +1,6 @@
 import { css } from '@emotion/react';
 import styled from '@emotion/styled';
-import { AtomImage, AtomText, AtomWrapper } from '@ixulabs/ui';
+import { AtomImage, AtomText, AtomWrapper } from '@sweetsyui/ui';
 import OrganismsSlider from '../../components/@organisms/OrganismsSlider';
 import Card from './Card';
 // import { DiagramLine, PageDiagramBox } from './style';

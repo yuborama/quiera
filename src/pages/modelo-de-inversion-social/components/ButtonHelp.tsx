@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import { AtomLink, AtomText } from '@ixulabs/ui';
+import { AtomLink, AtomText } from '@sweetsyui/ui';
 import { FC } from 'react';
 
 const ButtonHelp: FC = () => {

@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import { AtomImage, AtomText, AtomWrapper } from '@ixulabs/ui';
+import { AtomImage, AtomText, AtomWrapper } from '@sweetsyui/ui';
 import { FC } from 'react';
 import { colors } from '../../assets';
 import Image from 'next/image'

@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import { AtomButton, AtomIcon, AtomWrapper } from '@ixulabs/ui';
+import { AtomButton, AtomIcon, AtomWrapper } from '@sweetsyui/ui';
 import { FC, useState } from 'react';
 
 const documents = [

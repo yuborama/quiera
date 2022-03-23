@@ -6,7 +6,7 @@ import {
   AtomMap,
   AtomText,
   AtomWrapper
-} from '@ixulabs/ui';
+} from '@sweetsyui/ui';
 import { useEffect, useState } from 'react';
 import ButtonHelp from './modelo-de-inversion-social/components/ButtonHelp';
 import { filterActive } from '../assets/dataMap';

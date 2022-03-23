@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import { AtomCarruosell } from '@ixulabs/ui';
+import { AtomCarruosell } from '@sweetsyui/ui';
 import { FC } from 'react';
 
 const OrganismsSlider: FC<{

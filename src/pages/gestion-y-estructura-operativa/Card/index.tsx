@@ -1,4 +1,4 @@
-import { AtomButton, AtomImage, AtomText } from '@ixulabs/ui';
+import { AtomButton, AtomImage, AtomText } from '@sweetsyui/ui';
 import { FC, useState } from 'react';
 import { PageDiagramBox } from '..';
 // import { PageDiagramBox } from '../style';
